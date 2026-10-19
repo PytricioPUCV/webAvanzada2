@@ -1,13 +1,16 @@
 # Laboratorio 2 - Web Scraping y buscador de títulos
 
 Integrantes: Patricio Hernández, Ignacio Reyes
+
 Repositorio: https://github.com/PytricioPUCV/webAvanzada2
 
 ## Entorno virtual
 
+```
 py -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
+```
 
 ## Orden de ejecución
 
